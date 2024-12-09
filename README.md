@@ -37,7 +37,7 @@ GitSight is designed to be your one-stop shop for exploring your GitHub world. W
       * **Customization Options:** (Future Implementation) Enable user preferences for font size, theme colors, and list view style to enhance individual user experience.
   * **Informative Info Menu:** Provides an "Info" menu with details about the app, including:
       * **Creators' GitHub Profile:** @DaDevMikey
-      * **Official GitSight Website:** [https://GitSights.vercel.app/](https://GitSights.vercel.app/)
+      * **Official GitSight Website:** [https://GitSights.vercel.app/]((https://githubinsights.vercel.app/)
       * **Creator's Personal Website:** [https://nexas-development.vercel.app/](https://nexas-development.vercel.app/)
 
 **Installation & Usage (Coming Soon)**
